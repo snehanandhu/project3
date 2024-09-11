@@ -1,0 +1,656 @@
+.sec1{
+    background-image: url(building1.jpg);
+    background-size: cover;
+    height: 600px;
+    padding: 20px;
+}
+
+.bi-search{
+   font-size: 25px;
+   color: aliceblue;
+   margin-right: 30px;
+}
+.inbox1 a{
+   color:white;
+   text-decoration: none;
+}
+.inbox2{
+    text-align:right ;
+}
+.homebox{
+   text-decoration: none;
+   color: orange;
+   padding: 15px;
+}
+.aboutbox,.contactbox{
+   text-decoration: none;
+   color: white;
+   padding: 15px;
+}
+.inbox3{
+    padding-top: 50px;
+    color: orange;
+}
+.hd1{
+    font-size: 50px;
+}
+.inbox4,.inbox5,.inbox6{
+    background-color: rgba(0, 8, 16, 0.64);
+    padding: 20px;
+    color: white;
+    margin: 20px;
+    
+}
+
+.inbox4 h1,.inbox5 h1,.inbox6 h1{
+   font-size: 35px;
+}
+.inbox4 a,.inbox5 a,.inbox6 a{
+font-size: 15px;
+}
+.morebox{
+    border: solid;
+    border-color: rgb(236, 182, 31);
+    padding: 5px;
+    text-decoration: none;
+    color: white;
+}
+
+
+.more2{
+    background-color: orange;
+    padding: 10px; 
+    text-decoration: none; 
+    color: white;
+}
+.buildings{
+   color: orange;
+}
+
+.line{
+    background-color: orange;
+    width: 50px;
+    height: 5px;
+}
+
+
+.line-container{
+    display: flex;
+    justify-content: center;
+}
+.house-heart{
+   color: orange;
+}
+.search_input{
+   background-color: transparent;
+   width: 150px;
+   border: 2px solid white;
+   color: antiquewhite;
+}
+.search_input:focus{
+   color: white;
+}
+.search_input::placeholder{
+   color: white;
+}
+.bi-search{
+   position: absolute;
+   top: 30%;
+   right: -10%;
+}
+.searchbox{
+   position: relative;
+   width: 150px;
+}
+.inbox7{
+padding-top: 300px;
+background-image: url(eng1.png);
+background-size: cover;
+background-position: center;
+height: 450px;
+font-family: 'Courier New', Courier, monospace;
+ }
+ .engineer{
+    background-size: cover;
+ }
+ .inbox7 h1{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+   
+ }
+ .inbox7 p{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ }
+ .sec2{
+    padding: 40px;
+ }
+.inbox8{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.inbox9{
+    background-color: rgb(173, 173, 173);
+    padding: 20px;  
+}
+.inbox9 p{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 20px;
+}
+.sec3{
+    background-color: rgb(213, 210, 210);
+    padding: 50px;
+}
+.inbox10 h1{
+    font-size: 20px;
+    margin: 10px;
+}
+.inbox10 p{
+    margin: 10px;
+    margin-top: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.inbox11{
+    background-image: url(engieer.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+  margin-top: 80px;
+  margin-left: 25px;
+}
+.inbox12{
+    background-image: url(eng22.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 300px;
+    margin: 18px;
+    padding-right: 50px;
+}
+
+
+.creates{
+    text-align: center;
+    font-size: 25px;
+}
+.sec4{
+    height: 900px;
+     background-color:rgb(231, 221, 202) ;
+}
+.inbox13 h1{
+    
+        font-size: 20PX;
+        font-weight: bold;
+}
+.inbox14 h1{
+ font-weight: bold;
+ font-size: 50px;
+ text-align: center;
+ padding-top: 30px;
+}
+ .inbox14 p{
+    text-align: center;
+    font-size: 10 px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .inbox15,.inbox17{
+    background-color: rgb(236, 146, 29);
+    height: 300px;
+    width:100%;
+ }
+ .inbox18,.inbox20{
+    margin-top: 20px;
+    height: 300px;
+    width:100%;
+ }
+ .inbox19{
+    background-color:  white;
+    margin-top: 20px;
+    height: 300px;
+    width:100%;
+ }
+ .inbox15 h1{
+    padding-top: 25px;
+    text-align: center;
+    font-weight: bold;
+
+ }
+ .inbox15 p{
+    font-size: 15px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .inbox17 h1{
+    padding-top: 25px;
+    text-align: center;
+    font-weight: bold;
+ }
+ .inbox17 p{
+    font-size: 15px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ .inbox19 h1{
+    padding-top: 25px;
+    text-align: center;
+    font-weight: bold;
+ }
+ .inbox19 p{
+    font-size: 15px;
+    padding: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+ }
+ .inbox16{
+    background-image: url(eng12.avif);
+    height: 300px;
+    background-position: center;
+
+ }
+ .inbox18{
+    background-image: url(eng15.avif);
+    height: 300px;
+    background-position:center ;
+ }
+ .inbox20{
+    background-image: url(eng10.avif);
+    height: 300px;
+    background-position:center ;
+ }
+.background_img{
+    background-color: rgba(0, 0, 0,0.9);
+    height: 100%;
+}
+.sec5{
+    height:250px;  
+    background-color: rgb(24, 24, 23);
+    background-image: url(city.avif);
+}
+.sec5h1{
+    text-align: center;
+   color: white;
+   font-size: 50px;
+}
+.sec5p{
+    text-align: center;
+    color:rgb(207, 138, 9);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .sec6{
+
+    height: 500px;
+    }
+ .inbox25{
+    background-color: rgb(231, 153, 9);
+ }
+ .sec6h10{
+    color: white;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+ }
+ .sec6h1{
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+ }
+ .inbox28{
+    margin-top: 25px;
+    background-image: url(build1.jpg);
+    height:300px;
+
+ }
+ .inbox29 h1{
+    margin-top: 10px;
+    font-size:25px ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ .inbox29 p{
+   margin-top: 10px;
+   font-size:20px ;
+   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ .sec7{
+   height: 600px;
+   background-color: rgb(238, 228, 197);
+ }
+ .inbox30 h1{
+    font-size: 50px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    margin-top: 30px;
+ }
+ .inbox30 p{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ .inbox33{
+    background-image: url(enggg6.jpg);
+    height: 400px;
+    width: 100%;
+    margin: 0px;
+    background-position: center;
+ }
+ .inbox31{
+    background-color: rgb(244, 214, 159);
+    text-align: center;
+    padding: 10px;
+ }
+
+ .inbox32{
+    color: white;
+    background-color: rgb(236, 155, 5);
+    text-align: center;
+    padding: 10px;
+ }
+ .inbox31-1,.inbox32-1{
+   background-color: antiquewhite;
+   color: black;
+   height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+ }
+
+ .inbox31-1 h1{
+font-size: 15px;
+text-align: center;
+padding-top: 15px;
+
+ }
+.inbox32-1 h1{
+font-size: 15px;
+text-align: center;
+padding-top: 15px;
+}
+
+.sec8{
+   height: 500px;
+background-color: rgb(46, 45, 45);
+}
+.inbox34 h1{
+   margin-top: 30px;
+   text-align: center;
+   font-weight: bold;
+  color: white;
+}
+.inbox34{
+   text-align: center;
+
+}
+.inbox36 a{
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+   border: solid;
+   padding:10px;
+   margin-top:50px;
+   text-align: center;
+}
+.inbox36{
+   margin-top: 30px;
+   text-align: center;
+}
+.inbox34 p{
+   text-align: center;
+   font-style:italic;
+  color: white;
+  padding-bottom: 25px;
+}
+.inbox35-1{
+   margin: 3px;
+   background-color: white;
+   height: 250px;
+   background-position: center;  
+}
+
+.inbox35-1 h1{
+font-weight: bold;
+   font-size: 25px;
+   text-align: center;
+}
+
+.inbox35-2{
+  
+   margin: 3px;
+   background-color: white;
+   height: 250px;
+   background-position: center;
+
+
+}
+.inbox35-2 h1{
+   font-size: 25px;
+   text-align: center;
+   font-weight: bold;
+}
+.inbox35-3{
+   margin: 3px;
+   background-color: white;
+   height: 250px;
+   background-position: center;
+ 
+
+}
+.inbox35-3 h1{
+   font-size: 25px;
+   text-align: center;
+   font-weight: bold;
+}
+.inbox35-4{
+   margin: 3px;
+   background-color: white;
+   height: 250px;
+   background-position: center;
+
+
+}
+.inbox35-4 h1{
+   font-size: 25px;
+   text-align: center;
+   font-weight: bold;
+}
+
+.img1{
+   display: flex;
+   justify-content: center;
+   padding: 20px 0;
+}
+.sec8_img{
+   border-radius: 50%; 
+    max-width: 150px;
+    height: 150px;
+    margin: auto;
+}
+.sec9{
+   height: 500px;
+   background-color: rgb(241, 221, 192);
+}
+.inbox37 h1{
+   text-align: center;
+   font-weight: bold;
+   margin-top: 30px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.inbox38-1{
+   background-color: burlywood;
+   height: 250PX;
+   border-radius: 40px;
+   font-family: 'Times New Roman', Times, serif ;
+   margin-top: 55PX;
+   padding: 50px;
+
+}
+.inbox38-2{
+   background-color: burlywood;
+   height: 250PX;
+   border-radius: 40px;
+
+   padding: 50px;
+   margin-top: 55PX;
+
+}
+.inbox39 a{
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+   border: solid;
+   background-color: orange;
+   padding:10px;
+   margin-top:50px;
+   text-align: center;
+   border-color:orange;
+
+}
+.inbox39{
+   margin-top: 30px;
+   text-align: center; 
+}
+.sec10{                           
+   height: 500px;
+   background-color: rgba(24, 24, 23, 0.395);
+   background-image: url(city.avif);
+}
+.inbox40,.inbox42{
+   margin-top: 50px;
+   background-color:rgb(255, 255, 255);
+   height: 300px;
+   padding: 60px;
+}
+.inbox40 h1,.inbox41 h1,.inbox42 h1{
+   font-size: 25px;
+   text-align: center;
+}
+.inbox40 p,.inbox41 p,.inbox42 p{
+   font-size: 18px;
+   text-align: center;
+   padding:10px;
+   font-family: 'Times New Roman', Times, serif;
+}
+.bi-geo-alt{
+   color: orange;
+margin: 20px;
+}
+.inbox40{
+ text-align: center;
+ font-family: 'Times New Roman', Times, serif;
+}
+.inbox41{
+   margin-top: 50px;
+   background-color:orange;
+   height: 300px;
+   padding: 60px;
+   text-align: center;
+}
+.inbox41 h1,.inbox41 p{
+   color: white;
+   font-family: 'Times New Roman', Times, serif;
+
+}
+.bi-phone-vibrate{
+   color: white;
+   margin: 20px;
+}
+.inbox42{
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+}
+.bi-envelope-open-heart{
+   color: orange;
+   margin: 20px;
+
+}
+
+.sec11{
+   color: white;
+   padding: 40px;
+   font-size: 20px;
+   text-align: center;
+   height: 150px;
+   background-color: black;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.list_items_2{
+   list-style: none;
+}
+.bi-check{
+   color: orange;
+   font-size: 25px;
+}
+.bi-person-fill{
+   font-size: 30px;
+   color: orange;
+ 
+}
+.bi-people-fill{
+   font-size: 30px;
+   color: orange;
+}
+.bi-briefcase-fill{
+   font-size: 30px;
+   color: orange;
+}
+.bi-trophy-fill{
+   font-size: 30px;
+   color: orange;
+}
+.inbox21,.inbox22,.inbox23,.inbox24{
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   padding-top: 50px;
+}
+.buy{
+   background-color: orange;
+   padding: 7px; 
+   text-decoration: none; 
+   color: white;
+}
+.inbox38-1{
+   /* text-align: center; */
+   height: 270px;
+
+}
+.inbox38-1 h1{
+   font-size: 25px;
+   text-align: center;
+ 
+}
+.inbox38-1 h4{
+   font-size: 15px;
+   text-align: center;
+   margin-bottom: 40px;
+}
+
+.inbox38-2{
+   /* text-align: center; */
+   height: 270px;
+
+}
+.inbox38-2 h1{
+   font-size: 25px;
+   text-align: center;
+ 
+}
+.inbox38-2 h4{
+   font-size: 15px;
+   text-align: center;
+   margin-bottom: 40px;
+}
+
+.profile1{
+   border-radius: 50%;
+   height: 60px;
+   width: 60px;
+}
+
+.profile2{
+   border-radius: 50%;
+   height: 60px;
+   width: 60px;
+}
